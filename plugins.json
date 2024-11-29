@@ -1,0 +1,16 @@
+{
+   "commands": {
+      "init-dev": [
+         "install-nvm",
+         "install-git",
+         {
+            "name": "install-node",
+            "versions": ["14.17.0", "16.13.0", "18.0.0"]
+         },
+         "install-vscode",
+         "configure-vscode-path"
+         
+      ],
+      "install-plugin": ["install-plugin"]
+   }
+}

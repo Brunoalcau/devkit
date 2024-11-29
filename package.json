@@ -1,0 +1,19 @@
+{
+  "name": "li-fe-cli",
+  "version": "1.0.0",
+  "description": "CLI para configurar ambiente de desenvolvimento para novos front-ends",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dev-setup": "./cli.js"
+  },
+  "author": "Bruno Cau",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^12.0.1",
+    "shelljs": "^0.8.5"
+  }
+}
