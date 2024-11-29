@@ -7,7 +7,7 @@
 
 ### O que é este CLI?
 
-Este CLI foi desenvolvido para automatizar a configuração inicial do ambiente de desenvolvimento para novos desenvolvedores front-end. Ele simplifica o processo de instalação de ferramentas essenciais, como o NVM (Node Version Manager) e versões específicas do Node.js, agilizando o onboarding e evitando erros de configuração manual.
+Este CLI foi desenvolvido para automatizar a configuração inicial do ambiente de desenvolvimento. Ele simplifica o processo de instalação de ferramentas essenciais, como o NVM (Node Version Manager) e versões específicas do Node.js, agilizando o onboarding e evitando erros de configuração manual.
 
 ### Objetivo
 
